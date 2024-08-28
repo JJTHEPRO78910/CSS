@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+#j {
+    text-decoration: line-through;
+}
+.jj {
+    border: 5px dashed orange;
+    padding: 5px;
+}
+label,p{
+    border: 4px dotted red
+}
